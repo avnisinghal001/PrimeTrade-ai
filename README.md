@@ -511,5 +511,3 @@ Make sure `.env` is not listed before pushing to GitHub.
 ## Final Note
 
 This project was built to demonstrate clean Binance Futures Testnet integration with a simple CLI, guided interactive mode, local web UI, input validation, logging, error handling, and safe credential management.
-
-```
